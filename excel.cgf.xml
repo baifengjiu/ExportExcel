@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<filename>测试文件</filename>
+	<outpath>D:/</outpath>
+	
+	<sheet>
+		<sheetname>学生信息</sheetname>
+		<column>姓名</column>
+		<column>学号</column>
+		<column>性别</column>
+		<column>年龄</column>
+		<column>电话</column>
+	</sheet>
+	
+	<sheet>
+		<sheetname>成绩</sheetname>
+		<column>学号</column>
+		<column>科目</column>
+		<column>分数</column>
+	</sheet>
+</configuration>
